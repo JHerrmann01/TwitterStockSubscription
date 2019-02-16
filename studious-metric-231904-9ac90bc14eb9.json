@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studious-metric-231904",
+  "private_key_id": "9ac90bc14eb97bb362d3801a96ae2ea34827b5b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkgCNh37ZYAoRF\nCrsSVBUAK4y1um3hVP+u17z7ivBn+gZSEkvlnkOjj0kJ0LauoAhLO5uWkrO86NV3\nTlQdGaWFmD0VbdURbXwcGkfuRgk2eqgjREeUXNKrgm/aa9jPmg/SaAIrmSprSx9A\nz8R/p08syU8oHsbXKpxMLOtKpOI8s2sxiyYVscLnXOEvQJ9eF7tFGjBu0rfERot5\nIrBI1rBd+xXd3VC1UBz4RXJhSChgGKrZ8JukXHjAwaTKGSTVkm5vgl7cN5BPobXf\n7ohPDMZ4W8PuWw4wbEJS4DHqD5pvzKXRfI/iFtujq68fsK4nB6z9JG4hb9udpAHN\nNjn/RF1nAgMBAAECggEAKWEYRWb2YdYkOo/T9ezTqYrK5u3B9SQh+vPG1ImjJqyU\niXGTyOtSPWLuLvti8LNN0sroPOyjLNpu1AeOjhFk+yGMAAd0SOF/DjyoKm5Qo/Uf\ntVtYHCBrV/xEMa/eRn6NC1LhdOEe9AVeE7oPxkKqXmw3LrLrNrW/wkOsXkbyp+zc\nrlKJ2TQXMYhlhvxWZYqtp3faeI+IodX9AVDj3dWUQpPSiXFd8vBJK4ZgGWZBs/JD\nYWEueDl0dx2kiVr1c/pqe5EupOnJZq/KmRiCd8BRdgoz34e9zUZHIxNxTyJthZ6Z\n7t6Is1m3c9nU4eHR0or9N+8tAQZ4HCVUtYdTGFtkPQKBgQDV0HVllhggb/gXnu3u\nnAmaQGPjvSC6T5fQsU3BNdPHgxU8uxtEtRRKxFaqXG75kn5EbPrjLEGSFb4hrArv\nyeMJpazPTUoYM0Xb/6iBJckL5H2kvJRtB4oYXQbKMLT/WPVWOYGYeEm9n0F1N56s\ni7+TElPJlAcziPigSZHp1kelxQKBgQDE9OR1/M1Q6jxLiqg3lrSUQV4S28NBTZo5\n7vVNAyJOrsd81BcxZbP1PSAFblpvaFUk9Dj0cV3jq3xU5V4hD6GouifEVtay9yAh\nczaPcBhArcJngCvXUO5VBCZoEIFw35pr8yCLiVlqTSm3SGB2XKopWqO4C7B9nY6F\n3I8pNggVOwKBgQCCw5/YxifxRqlTQObBRHr29KRitttaNq1he95S6OmhnkCRyNjP\nd3N2modqX2ebiQViMchqwTlE77k9fKufpTgOQV3j1qAXFtyFxOC4Q3SmqlJROugH\nmlHRvqsVYx5/AFfjKP5iUka/CrQMzTxkyH8colvN75NL6FwuI3Bys5NUBQKBgD65\nGrS0gJJfNjp8etvRI8r/Ej2BPSpj01TV08rlz5wtLxyC0qwJjojwIW15WlWWbV8q\nY6T9IYBq0Vqb/SEcQEhimF1/pjoyV0ovzdVaRm76pymc+NlGTdBHVQ/ZCc/vddch\nA2FMqWwgDMPwyb+H/SzUT8VB+7/VWFkrB3CBY4uXAoGAB+b+wZHGf+jgdvXE8lLd\nXlKtj6KkDGzi6U8feve6b0uS3t0dW/rZ6eo/IgyLLd8uKhMyEsgxsNccoBq4prcV\nBfZrAzkyLWJ2+oRA3bBX6VfEStNLnYwPJrZUwRT/daQoqqn4+jRCdfV8Mn7hobyE\n+82vp6Veq/9rSOMvAqoxvAA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-1ihpi4h4885w@studious-metric-231904.iam.gserviceaccount.com",
+  "client_id": "107103284566182374687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-1ihpi4h4885w%40studious-metric-231904.iam.gserviceaccount.com"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studious-metric-231904",
+  "private_key_id": "4b763deb09670216eb164af2e3698a10a353fb7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC77aCaH+TaQd0o\nEHa/G7YN/TW0awfQKVFtnGRCKBw/K9PIRIyyMEZJe2X/nT5jhD9sgGamjGVAEORB\nUgm0TB4AhOoTR91vcLJXJzD0OS/aWfDcYNO8XqvVvnsMObmNfFwfdrOqlF99esYC\nvEU/nSd6vXyFGPgU04RNv1OpnC3qDB27J6ycnzCLAS4dsLVtyFJTVvXXod01mTLk\n7ez7RjeZgzOpq3oX3dMht+BELu/iwVsqO18LRmn76MKtuQVi7B1bx3uAOCdFWRP/\nym0QHMqDDkYDq4PVUfiLtWQutdvKZnHpAzOaSmp9TTj9hO/1h9cD1TsvAoAkGODi\nC7PR8Y55AgMBAAECggEAW/0HuZm2DG3kAtn4Pjiixzs0IBGp++dVr/k3DDkVBoj9\n/BAt7IT7yrlH5rTCFrVj1EkPtiOP5im+iQjOrj36C5gD+hcZ2ZRI/6cz67/YYCHZ\naA5PZmvS4egA1C2nWY3PjCku7eb9zO6dYTZmESrsacS54G6l9I/KucHXAnVr9h1K\nujeT/A/SfvcS++pSmwufDJOkOugs+fV9a30C3UkO+I5thEcynsaZXF6HSQLQMWYb\naTHeEhVY8nH6my7YzF5RyLzJRG365iFU98Q/OhK9mXpHujd9UovDdsz+zWwloqES\nPH6i1Lr5P2Mycy9leXsMeM6Ol1rTfKzxt4T/8aRsbwKBgQD4zHE/cRF7C8f2/KHj\nuIWC7X9sj0+yOgO1I9yQjNSWOVePKtJpgc44T0eMNtoCd6sDR7WURJqfwR+Y4q4v\nExTuYEcx45JPX6PU4V8/jlWJmdS5VxCtUK5OsEpkoSRRzvVx/zAHzyedeLxRFhhl\nCVrm0rVDP2mx6LhZX2zbEFoEQwKBgQDBXiUznbIN4QxDcEpkGPCEkO7wjbWW/1Cg\nlXTrPP7OOzcQyvUFKKWjkYyDWKTTyMe1S1wlO1JoY+6iPZgYKJfW9Oeqq0cKTZ2y\nP32j05FBG9ob5gAhR7S8rIC6OdQ2f9fC7akOnXR6ZW4JrVJSkUsLOM45ciUtmVgb\nbE1djJa0kwKBgQC03Roufmmww124ZOri+k7EYRZSutO6woXTdqBuzJH2KvVF9GFF\npcFeGfPvMCjHxmqhVc3gXQbyv5fSsmbhfcOnjoHy+HZyERquNK/jKftwrk1/9pT/\nCTnNpkZOZP5cIlE3b8Vgx+0KgqyTXbaaLHTSe7adjkmttXneLoqZrYditQKBgHYS\n2MCF4H2dF/HuFV6948/u+BgnT+TeDgugd35VBnpDqkI0zBzUTyBr9dMWQ7+WcGwB\nkkihypY3vzWOStslnmIBtZx/baea8VowbrWksKODMFGsxhOMR46V/xy3xx9oPQWo\nPXzRJJjAasq57PTCB4LYswRc8NrBMg28uhkPic7FAoGBAJNogHrpwWh/RVvzH645\nvldeW22a24Rne8ygLTkyryJaDMZ1ZJFVUUsncSbVRmmevcVbXXAv0mEeN9GwJ3ux\nyJY3iZ7d8F6s4Ybl7g6OszZCTtC0v4cDUEarKARNKf50pMVQ7qYpzMRDTDfRJuZl\nReVbBbgadRy2OAxouncNr2Xq\n-----END PRIVATE KEY-----\n",
+  "client_email": "stockbot@studious-metric-231904.iam.gserviceaccount.com",
+  "client_id": "114814530601920401861",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stockbot%40studious-metric-231904.iam.gserviceaccount.com"
+}
