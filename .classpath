@@ -6,7 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Jeremy/Desktop/TwitterStockSubscription/twitter4j-4.0.7/lib/twitter4j-core-4.0.7.jar">
+	<classpathentry kind="lib" path="C:/Users/Eric Paez/Desktop/TwitterStockSubscription/twitter4j-4.0.7/lib/twitter4j-core-4.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Eric Paez/Desktop/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="/Users/alan/Desktop/TwitterStockSubscription/twitter4j-4.0.7/lib/twitter4j-core-4.0.7.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
