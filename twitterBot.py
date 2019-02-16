@@ -69,6 +69,28 @@ def analyzeArticle(Text):
 
     print('Text: {}'.format(text))
     print('Sentiment: {}, {}'.format(sentiment.score, sentiment.magnitude))
+
+def getCurrentData():
+    result = []
+    #for x in range(0, len(symbolArray)):
+    for x in range(0, 2):
+        #Getting all recent articles about the current stock
+        articles = getNewsArticles(stockNameArray[x])
+
+        #Getting the current stock price
+        stockPrice = YahooFinancials(symbolArray[x]).get_current_price()
+        
+        tempData = [symbolArray[x], stockNameArray[x], articles, stockPrice]
+        print("Current Data: ")
+        print("Stock Symbol - " + tempData[0])
+        print("Stock Name   - " + tempData[1])
+        print("Current Stock Price - " + str(tempData[3]))
+        print("Articles: ")
+        for article in articles:
+            print(article)
+        
+        result.append(tempData)
+    return(result)
     
 if(__name__ == "__main__"):
     print("Starting up!")
@@ -76,12 +98,11 @@ if(__name__ == "__main__"):
     #print(os.environ['GOOGLE_APPLICATION_CREDENTIALS'])
     #os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="/home/jeremy/Desktop/studious-metric-231904-9ac90bc14eb9.json"
 
-    
-    getCurrentData
 
-    ticker = 'AAPL'
-    yahoo_financials = YahooFinancials(ticker)
-    apple_net_income = yahoo_financials.get_current_price()
+    #At 10:00 AM each day, we will call this method.
+    currentData = getCurrentData()
+
+    
     print(apple_net_income)
 
 
